@@ -9,7 +9,7 @@
 
 ## Instructions
 
-To play this game, you will need to open the html file in the browser. After you do so,
+To play this game, you will need to open https://smssoltan.github.io/Udacity_Matching_game/ in your browser. After you do so,
 The game will start immediately ass soon as the page finishes to load. To win in this game,
 You will have to find two cards that matches and continue to do so until you find all matching cards.
 If you select two cards that are different, you will have to select another until you find the one matches
